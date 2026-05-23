@@ -1,4 +1,3 @@
-
 "homepage": "https://github.com/prateek21830-dev/family-vault",
 1|import { useState } from "react";
 2|import "@/App.css";
